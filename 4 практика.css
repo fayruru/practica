@@ -487,8 +487,11 @@ width: 95%;
 }
 
 
-
-float: left;
+.s {
+	
+ color: brown;
+	
+ float: left;
 
  font-size: 84px;
 
@@ -501,3 +504,4 @@ float: left;
  padding-left: 3px;
 
  font-family: 'Montserrat', sans-serif; 
+}
