@@ -220,7 +220,7 @@ width: 95%;
 
   position: absolute;
 
-  background: #6F86D6 #48C6EF;
+  background: #6F86D6 ;
 
   transition: .3s ease-in-out;
 
@@ -239,7 +239,7 @@ width: 95%;
 
 .loader2 {
 
-  color: #000;
+  color: #FFF;
 
   border: 1px solid rgba(255, 255, 240) !important; 
 
@@ -416,7 +416,7 @@ width: 95%;
 
 .reveal {
 
-  height: 700px !important;
+  height: 736px !important;
 
 }
 
@@ -487,7 +487,7 @@ width: 95%;
 }
 
 
-.s {
+.sjdsbhdb {
 	
  color: brown;
 	
