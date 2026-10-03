@@ -44,7 +44,7 @@ html, body {
 
 img {
 
-width: 80%;
+width: 95%;
 
   }
   
@@ -83,8 +83,8 @@ width: 80%;
   justify-content: center;
 
   align-items: center;
-
-  visibilty: hidden;
+  
+  visibility: hidden;
 
   opacity: 0;
 
@@ -264,7 +264,7 @@ width: 80%;
 
   visibility: hidden;
   
-  color: white
+  color: white;
   
   opacity: 0;
 
@@ -417,7 +417,7 @@ width: 80%;
 
 .reveal {
 
-  height: 900px !important;
+  height: 700px !important;
 
 }
 
