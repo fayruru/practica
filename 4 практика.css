@@ -385,7 +385,7 @@ width: 95%;
 
 #menu-button.hover-color2 div {
 
-  background: blue !important;
+  background: black !important;
 
 }
 
@@ -417,7 +417,7 @@ width: 95%;
 
 .reveal {
 
-  height: 700px !important;
+  height: 720px !important;
 
 }
 
@@ -509,5 +509,5 @@ width: 95%;
 
 
 p {
-	color: blue;
+	color: black;
 }
