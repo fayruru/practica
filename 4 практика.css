@@ -16,13 +16,13 @@ html, body {
 
   position: absolute;
 
-  margin-top: -10vh;
+  margin-top: -50vh;
 
   overflow: auto;
 
 }
 
-{
+* {
 
   box-sizing: border-box;
 
@@ -239,7 +239,7 @@ width: 95%;
 
 .loader2 {
 
-  color: #FFF;
+  color: #000;
 
   border: 1px solid rgba(255, 255, 240) !important; 
 
@@ -263,6 +263,8 @@ width: 95%;
 .fuller2 {
 
   visibility: hidden;
+  
+  color: white
 
   opacity: 0;
 
@@ -376,7 +378,7 @@ width: 95%;
 
 #menu-button.hover-color div {
 
-  background: #BBC9DD;
+  background: white;
 
 }
 
@@ -398,7 +400,7 @@ width: 95%;
 
   width: 95%;
 
-  background: url("https://raw.githubusercontent.com/fayruru/practica/refs/heads/main/42fe20a0372a708a03c9a334e1192765.jpg");
+  background: url("https://raw.githack.com/fayruru/practica/refs/heads/main/d73b3d4ca3ff07ee877d72481b8b551c.jpg");
 
   left: 0;
 
@@ -416,7 +418,7 @@ width: 95%;
 
 .reveal {
 
-  height: 20px !important;
+  height: 720px !important;
 
 }
 
@@ -505,3 +507,5 @@ width: 95%;
 
  font-family: 'Montserrat', sans-serif; 
 }
+
+
