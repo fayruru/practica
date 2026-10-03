@@ -265,13 +265,12 @@ width: 95%;
   visibility: hidden;
   
   color: white
-
+  
   opacity: 0;
 
 }
 
 
-/*положение кнопки*/
 
 #menu-button-container {
 
@@ -386,7 +385,7 @@ width: 95%;
 
 #menu-button.hover-color2 div {
 
-  background: #976BD6 !important;
+  background: blue !important;
 
 }
 
@@ -400,7 +399,7 @@ width: 95%;
 
   width: 95%;
 
-  background: url("https://raw.githack.com/fayruru/practica/refs/heads/main/d73b3d4ca3ff07ee877d72481b8b551c.jpg");
+  background: url("https://raw.githack.com/fayruru/practica/refs/heads/main/internet-mem-vozduhany-photo-original.png");
 
   left: 0;
 
@@ -418,7 +417,7 @@ width: 95%;
 
 .reveal {
 
-  height: 720px !important;
+  height: 600px !important;
 
 }
 
@@ -509,3 +508,6 @@ width: 95%;
 }
 
 
+p {
+	color: black;
+}
