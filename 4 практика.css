@@ -399,7 +399,7 @@ width: 95%;
 
   width: 95%;
 
-  background: url("https://raw.githack.com/fayruru/practica/refs/heads/main/internet-mem-vozduhany-photo-original.png");
+  background: url("https://github.com/fayruru/practica/blob/main/f3b80cd85b9b8147f8e695d4b759f850.jpg");
 
   left: 0;
 
@@ -417,7 +417,7 @@ width: 95%;
 
 .reveal {
 
-  height: 600px !important;
+  height: 700px !important;
 
 }
 
@@ -509,5 +509,5 @@ width: 95%;
 
 
 p {
-	color: black;
+	color: blue;
 }
