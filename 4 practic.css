@@ -16,7 +16,7 @@ html, body {
 
   position: absolute;
 
-  margin-top: -50vh;
+  margin-top: -200vh;
 
   overflow: auto;
 
@@ -44,7 +44,7 @@ html, body {
 
 img {
 
-width: 95%;
+width: 80%;
 
   }
   
@@ -399,7 +399,7 @@ width: 95%;
 
   width: 95%;
 
-  background: url("https://raw.githack.com/fayruru/practica/refs/heads/main/vozduhan%F0%9F%A7%8F%F0%9F%8F%BF_%E2%99%82%EF%B8%8F.png");
+  background: url("https://github.com/fayruru/practica/blob/main/vozduhan%F0%9F%A7%8F%F0%9F%8F%BF_%E2%99%82%EF%B8%8F.png?raw=true");
 
   left: 0;
 
@@ -417,7 +417,7 @@ width: 95%;
 
 .reveal {
 
-  height: 661px !important;
+  height: 900px !important;
 
 }
 
@@ -462,7 +462,7 @@ width: 95%;
 
   line-height: 28px;
 
-  color: #B99CDE;
+  color: #D098DD;
 
   transition: .3s ease-in-out;
 
